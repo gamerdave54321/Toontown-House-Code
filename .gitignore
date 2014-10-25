@@ -1,0 +1,34 @@
+# General
+desktop.ini
+Thumbs.db
+
+# Toontown House
+*.db
+*.log
+*.buildings
+
+databases/*.*
+databases/astrondb/*.*
+databases/air_cache/*.*
+
+# Python byte-compiled/optimized
+*.py[co]
+
+run_s0r00t.bat
+run_s0r00t_noserv.bat
+
+#Sheriff
+run-jean.bat
+
+#Fritz
+run_fritz.bat
+
+#Sean
+connect.bat
+
+# Screenshots
+screenshots/*.jpg
+
+run_localhost.bat
+resources/_bam2egg.cmd
+resources/_egg2bam.cmd
